@@ -38,7 +38,6 @@ This project defines the **database schema** for a **Streaming Platform**. The s
 | `PG_rating`          | Stores parental guidance ratings |
 | `Production_House`   | Stores production house details |
 | `Subscription_types` | Defines different subscription plans |
-| `ZipCodes`           | Stores zip code and location information |
 
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/251438d4-a612-4bb0-90d1-f9af7a3c58eb" />
 
