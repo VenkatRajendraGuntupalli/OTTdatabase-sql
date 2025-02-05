@@ -73,10 +73,9 @@ This project defines the **database schema** for a **Streaming Platform**. The s
   ```sql
   SELECT * FROM active_users;
 
-
-### To fetch content by genre:
-```sql
-SELECT * FROM content_by_genre WHERE genre_name = 'Action';
+- To fetch **fetch content by genre**, use:
+  ```sql
+  SELECT * FROM content_by_genre WHERE genre_name = 'Action';
 
 
 ## 🎯 Future Enhancements
