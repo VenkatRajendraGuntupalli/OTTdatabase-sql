@@ -3,12 +3,20 @@
 ## Overview
 This project defines the **database schema** for a **Streaming Platform**. The schema includes tables for users, content, payments, subscriptions, genres, production houses, awards, and more. It also features **stored procedures, triggers, transactions, and views** to enhance data integrity and performance.
 
+
+![Untitled](https://github.com/user-attachments/assets/447ddd64-c5b4-4406-878b-74df59719327)
+
+
+
 ## Features
 - **Well-structured tables** following industry standards.
 - **Stored Procedures** for common operations like payments and subscription updates.
 - **Triggers** for auditing and enforcing constraints.
 - **Views** to simplify data retrieval.
 - **Transactions** ensuring data consistency.
+
+<img width="988" alt="image" src="https://github.com/user-attachments/assets/65bc3ab2-940a-4357-b970-16c81684c81b" />
+
 
 ---
 
@@ -31,6 +39,9 @@ This project defines the **database schema** for a **Streaming Platform**. The s
 | `Production_House`   | Stores production house details |
 | `Subscription_types` | Defines different subscription plans |
 | `ZipCodes`           | Stores zip code and location information |
+
+<img width="704" alt="image" src="https://github.com/user-attachments/assets/251438d4-a612-4bb0-90d1-f9af7a3c58eb" />
+
 
 ---
 
