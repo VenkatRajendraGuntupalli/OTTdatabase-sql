@@ -91,6 +91,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ## 👨‍💻 Author
-Developed by **[VENKAT RAJENDRA GUNTUPALLI]**  
-📧 Contact: **[guntupalliv1@udayton.edu]**  
-🔗 GitHub: **[https://github.com/VenkatRajendraGuntupalli]**
+Developed by **VENKAT RAJENDRA GUNTUPALLI**  
+📧 Contact: **guntupalliv1@udayton.edu**  
+🔗 GitHub: **https://github.com/VenkatRajendraGuntupalli**
